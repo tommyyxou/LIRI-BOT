@@ -1,0 +1,362 @@
+
+
+concert-this Needtobreathe
+
+--------------------   Result: #1   --------------------- 
+Name of the venue: Pearl Theater
+Venue location: Las Vegas, NV
+Date of the Event: Saturday, April 6th 2019, 7:00:57 pm
+-----------------   End of Result: #1   -----------------
+
+--------------------   Result: #2   --------------------- 
+Name of the venue: Fox Performing Arts Center
+Venue location: Riverside, CA
+Date of the Event: Monday, April 8th 2019, 7:00:37 pm
+-----------------   End of Result: #2   -----------------
+
+--------------------   Result: #3   --------------------- 
+Name of the venue: Fremont Theater
+Venue location: San Luis Obispo, CA
+Date of the Event: Tuesday, April 9th 2019, 7:00:17 pm
+-----------------   End of Result: #3   -----------------
+
+--------------------   Result: #4   --------------------- 
+Name of the venue: Fox Theater
+Venue location: Bakersfield, CA
+Date of the Event: Wednesday, April 10th 2019, 7:00:37 pm
+-----------------   End of Result: #4   -----------------
+
+--------------------   Result: #5   --------------------- 
+Name of the venue: Bob Hope Theater
+Venue location: Stockton, CA
+Date of the Event: Friday, April 12th 2019, 7:00:52 pm
+-----------------   End of Result: #5   -----------------
+
+--------------------   Result: #6   --------------------- 
+Name of the venue: Redding Civic Auditorium
+Venue location: Redding, CA
+Date of the Event: Saturday, April 13th 2019, 7:00:03 pm
+-----------------   End of Result: #6   -----------------
+
+--------------------   Result: #7   --------------------- 
+Name of the venue: Pikes Peak Center
+Venue location: Colorado Springs, CO
+Date of the Event: Monday, April 15th 2019, 7:00:28 pm
+-----------------   End of Result: #7   -----------------
+
+--------------------   Result: #8   --------------------- 
+Name of the venue: Macky Auditorium Concert Hall
+Venue location: Boulder, CO
+Date of the Event: Tuesday, April 16th 2019, 7:00:11 pm
+-----------------   End of Result: #8   -----------------
+
+--------------------   Result: #9   --------------------- 
+Name of the venue: Michigan Theater - SOLD OUT
+Venue location: Ann Arbor, MI
+Date of the Event: Monday, April 29th 2019, 7:00:11 pm
+-----------------   End of Result: #9   -----------------
+
+--------------------   Result: #10   --------------------- 
+Name of the venue: Berglund Performing Arts Theater
+Venue location: Roanoke, VA
+Date of the Event: Tuesday, April 30th 2019, 7:00:50 pm
+-----------------   End of Result: #10   -----------------
+
+--------------------   Result: #11   --------------------- 
+Name of the venue: Tivoli Theatre - SOLD OUT
+Venue location: Chattanooga, TN
+Date of the Event: Wednesday, May 1st 2019, 7:00:58 pm
+-----------------   End of Result: #11   -----------------
+
+--------------------   Result: #12   --------------------- 
+Name of the venue: Hippodrome Theatre
+Venue location: Baltimore, MD
+Date of the Event: Friday, May 3rd 2019, 7:00:08 pm
+-----------------   End of Result: #12   -----------------
+
+--------------------   Result: #13   --------------------- 
+Name of the venue: Caesars Atlantic City Circus Maximus Theater
+Venue location: Atlantic City, NJ
+Date of the Event: Saturday, May 4th 2019, 7:00:54 pm
+-----------------   End of Result: #13   -----------------
+
+--------------------   Result: #14   --------------------- 
+Name of the venue: Luhrs Performing Arts Center
+Venue location: Shippensburg, PA
+Date of the Event: Sunday, May 5th 2019, 7:00:30 pm
+-----------------   End of Result: #14   -----------------
+
+--------------------   Result: #15   --------------------- 
+Name of the venue: State Theatre
+Venue location: Portland, ME
+Date of the Event: Tuesday, May 7th 2019, 7:00:26 pm
+-----------------   End of Result: #15   -----------------
+
+--------------------   Result: #16   --------------------- 
+Name of the venue: Capitol Center for the Arts
+Venue location: Concord, NH
+Date of the Event: Thursday, May 9th 2019, 7:00:21 pm
+-----------------   End of Result: #16   -----------------
+
+--------------------   Result: #17   --------------------- 
+Name of the venue: The Egg
+Venue location: Albany, NY
+Date of the Event: Friday, May 10th 2019, 7:00:07 pm
+-----------------   End of Result: #17   -----------------
+
+--------------------   Result: #18   --------------------- 
+Name of the venue: Bergen Performing Arts Center
+Venue location: Englewood, NJ
+Date of the Event: Saturday, May 11th 2019, 7:00:23 pm
+-----------------   End of Result: #18   -----------------
+
+--------------------   Result: #19   --------------------- 
+Name of the venue: State Theatre of Ithaca
+Venue location: Ithaca, NY
+Date of the Event: Sunday, May 12th 2019, 7:00:07 pm
+-----------------   End of Result: #19   -----------------
+
+--------------------   Result: #20   --------------------- 
+Name of the venue: Fargo Theatre
+Venue location: Fargo, ND
+Date of the Event: Wednesday, May 15th 2019, 7:00:49 pm
+-----------------   End of Result: #20   -----------------
+
+--------------------   Result: #21   --------------------- 
+Name of the venue: Burton Cummings Theatre
+Venue location: Winnipeg, 
+Date of the Event: Thursday, May 16th 2019, 7:00:51 pm
+-----------------   End of Result: #21   -----------------
+
+--------------------   Result: #22   --------------------- 
+Name of the venue: TCU Place
+Venue location: Saskatoon, 
+Date of the Event: Friday, May 17th 2019, 7:00:02 pm
+-----------------   End of Result: #22   -----------------
+
+--------------------   Result: #23   --------------------- 
+Name of the venue: Northern Alberta Jubilee Auditorium
+Venue location: Edmonton, 
+Date of the Event: Saturday, May 18th 2019, 7:00:52 pm
+-----------------   End of Result: #23   -----------------
+
+--------------------   Result: #24   --------------------- 
+Name of the venue: Southern Alberta Jubilee Auditorium
+Venue location: Calgary, 
+Date of the Event: Monday, May 20th 2019, 7:00:12 pm
+-----------------   End of Result: #24   -----------------
+
+--------------------   Result: #25   --------------------- 
+Name of the venue: Civic Center
+Venue location: Helena, MT
+Date of the Event: Tuesday, May 21st 2019, 7:00:00 pm
+-----------------   End of Result: #25   -----------------
+
+--------------------   Result: #26   --------------------- 
+Name of the venue: Eccles Theater
+Venue location: Salt Lake City, UT
+Date of the Event: Wednesday, May 22nd 2019, 7:00:58 pm
+-----------------   End of Result: #26   -----------------
+
+--------------------   Result: #27   --------------------- 
+Name of the venue: Abraham Chavez Theatre
+Venue location: El Paso, TX
+Date of the Event: Friday, May 24th 2019, 7:00:50 pm
+-----------------   End of Result: #27   -----------------
+
+--------------------   Result: #28   --------------------- 
+Name of the venue: Wagner Noël Performing Arts Center
+Venue location: Midland, TX
+Date of the Event: Saturday, May 25th 2019, 7:00:42 pm
+-----------------   End of Result: #28   -----------------
+
+--------------------   Result: #29   --------------------- 
+Name of the venue: The Rock Boat 
+Venue location: Miami, FL
+Date of the Event: Friday, January 24th 2020, 7:00:06 pm
+-----------------   End of Result: #29   -----------------
+
+--------------------   Result: #30   --------------------- 
+Name of the venue: The Rock Boat
+Venue location: Miami, FL
+Date of the Event: Saturday, January 25th 2020, 7:00:52 pm
+-----------------   End of Result: #30   -----------------
+
+--------------------   Result: #31   --------------------- 
+Name of the venue: The Rock Boat
+Venue location: Miami, FL
+Date of the Event: Sunday, January 26th 2020, 7:00:59 pm
+-----------------   End of Result: #31   -----------------
+
+--------------------   Result: #32   --------------------- 
+Name of the venue: The Rock Boat
+Venue location: Miami, FL
+Date of the Event: Monday, January 27th 2020, 7:00:46 pm
+-----------------   End of Result: #32   -----------------
+
+--------------------   Result: #33   --------------------- 
+Name of the venue: The Rock Boat
+Venue location: Miami, FL
+Date of the Event: Tuesday, January 28th 2020, 7:00:17 pm
+-----------------   End of Result: #33   -----------------
+
+--------------------   Result: #34   --------------------- 
+Name of the venue: The Rock Boat
+Venue location: Miami, FL
+Date of the Event: Wednesday, January 29th 2020, 7:00:02 pm
+-----------------   End of Result: #34   -----------------
+
+spotify-this-song big rings
+
+--------------------   Result: #1   ---------------------
+Artist(s): Drake,Future,
+Track Name: big rings
+Preview: https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT
+Album Name: What A Time To Be Alive
+-----------------   End of Result: #1   -----------------
+
+--------------------   Result: #2   ---------------------
+Artist(s): Drake,Future,
+Track Name: big rings
+Preview: https://open.spotify.com/album/15QCBYjP6HwHvsff100UBx
+Album Name: What A Time To Be Alive
+-----------------   End of Result: #2   -----------------
+
+--------------------   Result: #3   ---------------------
+Artist(s): Dan Deacon,
+Track Name: big rings
+Preview: https://open.spotify.com/album/0B6e3QvOHNr4MNVp78Mrwb
+Album Name: Spiderman Of The Rings
+-----------------   End of Result: #3   -----------------
+
+--------------------   Result: #4   ---------------------
+Artist(s): Gentlemens Club,
+Track Name: big rings
+Preview: https://open.spotify.com/album/5YplxcMeA17YF1iRi8TuKV
+Album Name: Black Gold EP
+-----------------   End of Result: #4   -----------------
+
+--------------------   Result: #5   ---------------------
+Artist(s): DJ Designer Drugz,
+Track Name: big rings
+Preview: https://open.spotify.com/album/1EJwNmhZkJlxlJzUkSMAwl
+Album Name: Designer Drugs
+-----------------   End of Result: #5   -----------------
+
+--------------------   Result: #6   ---------------------
+Artist(s): Various Artists,
+Track Name: big rings
+Preview: https://open.spotify.com/album/0ZdMK8x27XCM4oEL5xcxle
+Album Name: Big Band instrumentals: 16 Most Requested Songs
+-----------------   End of Result: #6   -----------------
+
+--------------------   Result: #7   ---------------------
+Artist(s): Jeff Foxworthy,
+Track Name: big rings
+Preview: https://open.spotify.com/album/78QLgGhrWY59UsaTzEbCcd
+Album Name: Live (Laughing Hyena Volume 9)
+-----------------   End of Result: #7   -----------------
+
+--------------------   Result: #8   ---------------------
+Artist(s): Dan Deacon,
+Track Name: big rings
+Preview: https://open.spotify.com/album/3RgPZWhNHwXxXV2LiU37H1
+Album Name: Spiderman Of The Rings / Ultimate Reality (Deluxe 10th Anniversary Edition)
+-----------------   End of Result: #8   -----------------
+
+--------------------   Result: #9   ---------------------
+Artist(s): Pollie Pop,
+Track Name: big rings
+Preview: https://open.spotify.com/album/149dskMDNuBzsNemHROiv2
+Album Name: Blueberry Skunk
+-----------------   End of Result: #9   -----------------
+
+--------------------   Result: #10   ---------------------
+Artist(s): Banana Chant,
+Track Name: big rings
+Preview: https://open.spotify.com/album/2zK1LqIL083Nuarzpn4Pde
+Album Name: The Balloon Room
+-----------------   End of Result: #10   -----------------
+
+--------------------   Result: #11   ---------------------
+Artist(s): The Great American Main Street Band,
+Track Name: big rings
+Preview: https://open.spotify.com/album/0Gmr1E5bZyDO3KgjCkgoEQ
+Album Name: Under The Big Top
+-----------------   End of Result: #11   -----------------
+
+--------------------   Result: #12   ---------------------
+Artist(s): Duke Ellington,
+Track Name: big rings
+Preview: https://open.spotify.com/album/6JzIQniQzYrbmuVJZCUG64
+Album Name: Recollections Of The Big Band Era (US Release)
+-----------------   End of Result: #12   -----------------
+
+--------------------   Result: #13   ---------------------
+Artist(s): Enoch Light & The Light Brigade,
+Track Name: big rings
+Preview: https://open.spotify.com/album/2wgdBTmDAW4NcBOaUcpqvt
+Album Name: 50 Big Band Hits of the Thirties, Forties & Fifties
+-----------------   End of Result: #13   -----------------
+
+--------------------   Result: #14   ---------------------
+Artist(s): Owl Paws,
+Track Name: big rings
+Preview: https://open.spotify.com/album/683oxWRiEjMhGbbq7Zzu7I
+Album Name: Smoke Rings & Diamonds
+-----------------   End of Result: #14   -----------------
+
+--------------------   Result: #15   ---------------------
+Artist(s): Spliff Star,
+Track Name: big rings
+Preview: https://open.spotify.com/album/2hFZa4NfI2XrrWdkvM02Uj
+Album Name: Big Rings (feat. Busta Rhymes, Bugs Kalhune)
+-----------------   End of Result: #15   -----------------
+
+--------------------   Result: #16   ---------------------
+Artist(s): Get Trap,
+Track Name: big rings
+Preview: https://open.spotify.com/album/2OQv04WTrWIL1cKtvl55It
+Album Name: Trap Money
+-----------------   End of Result: #16   -----------------
+
+--------------------   Result: #17   ---------------------
+Artist(s): Jess Kash,
+Track Name: big rings
+Preview: https://open.spotify.com/album/5Cvs3doyS8K67BwQk2HiPw
+Album Name: Street Goddess
+-----------------   End of Result: #17   -----------------
+
+--------------------   Result: #18   ---------------------
+Artist(s): Bell Tony,
+Track Name: big rings
+Preview: https://open.spotify.com/album/6IQ8OHu811gt7Qmkc6ppMr
+Album Name: Overdose 2
+-----------------   End of Result: #18   -----------------
+
+--------------------   Result: #19   ---------------------
+Artist(s): Super5Stone,
+Track Name: big rings
+Preview: https://open.spotify.com/album/5uSoIbUu1mOxSY57aREFdV
+Album Name: Big Rings
+-----------------   End of Result: #19   -----------------
+
+--------------------   Result: #20   ---------------------
+Artist(s): Mac Vara,
+Track Name: big rings
+Preview: https://open.spotify.com/album/0wNJjhr4zlNt7tqnqnA9OR
+Album Name: Return of the Mac
+-----------------   End of Result: #20   -----------------
+
+movie-this Inception
+
+--------------------   Result   ---------------------
+Title of the movie: Inception
+Year the movie came out: 2010
+IMDB Rating of the movie: 8.8/10
+Rotten Tomatoes Rating of the moive: 86%
+Country where the moive was produced: USA, UK
+Language of the movie: English, Japanese, French
+Plot of the movie: A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+Actors in the movie: Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy
+-----------------   End of Result   -----------------
